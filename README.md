@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Ilia Roidonov A.K.A. @euonymos (which is just literally a _good name_) 
+- 👋 Hello, I'm Ilia Roidonov A.K.A. `@euonymos` (which is just literally a _good name_) 
 - 🔭 I’m currently working on Hydrozoa L2 for Cardano, check out our work [here](https://github.com/cardano-hydrozoa/hydrozoa) 
-- 📖 My other interests: KZG, Plonk and othre ZKP stuff, 3D printing
+- 📖 My other interests: KZG, Groth, Plonk, and ZKP stuff, 3D printing
 - 📫 All my contacts can be found [here](https://euony.me/contact.html)
